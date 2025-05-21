@@ -1,6 +1,6 @@
-# 🛍️ E-Commerce Fashion Platform
+# 🛍️ E-Commerce Platform
 
-Một nền tảng thương mại điện tử hiện đại chuyên về bán quần áo, được xây dựng với Next.js & công nghệ hiện đại — nơi trải nghiệm mua sắm trở nên thông minh, nhanh chóng và thú vị.
+Một nền tảng thương mại điện tử hiện đại được xây dựng với Next.js & công nghệ hiện đại — nơi trải nghiệm mua sắm trở nên thông minh, nhanh chóng và thú vị.
 
 ---
 
